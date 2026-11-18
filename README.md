@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Community Library Management System
 
 A  library management coursework project. The frontend uses React, Vite, React Router and Fetch API. The backend uses Node.js, Express and MySQL.
@@ -145,3 +146,7 @@ npm run build
 Commit and push the complete repository, including both `frontend/` and `backend/`, `database/schema.sql`, and this README. Do **not** commit `.env`, passwords, JWT secrets, `node_modules/`, or build output.
 
 A GitHub Pages deployment can host only the static frontend; the Express API and MySQL database must also be deployed to a server/database host. Set `VITE_API_URL` to the deployed API URL when building the frontend, and configure the backend `FRONTEND_URL` to the deployed frontend origin.
+=======
+# COMMUNITY-LIBRARY-
+Community Library Management System using React, Express and MySQL.
+>>>>>>> e1ff56925d085cd6971c3133c04b849283413707
