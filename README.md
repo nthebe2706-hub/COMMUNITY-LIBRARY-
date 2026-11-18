@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Community Library Management System
 
 A  library management coursework project. The frontend uses React, Vite, React Router and Fetch API. The backend uses Node.js, Express and MySQL.
