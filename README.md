@@ -46,32 +46,6 @@ A  web application for managing a community library's books, members, and borrow
 - Assign user roles.
 - Admin-controlled user management.
 
-## Project Structure
-
-  text
-COMMUNITY-LIBRARY/
-
-── backend/
-     src/
-       config/
-        middleware/
-       routes/
-        utils/
-       server.js
-
-── database/
-     schema.sql
-
-── frontend/
-    src/
-       components/
-      pages/
-       utils/
-   package.json
-── .gitignore
-── README.md
-
-
 ## Database Setup
 
 1. Install MySQL Server and MySQL Workbench.
@@ -144,4 +118,4 @@ Open the local address displayed in the terminal, normally:
 
 ## Project Purpose
 
-This project demonstrates the development of a full-stack library management system using React, Express, and MySQL. It applies CRUD operations, database integration, authentication, stock management, and REST API communication.
+This project demonstrates the development of a  library management system using React, Express, and MySQL. It applies CRUD operations, database integration, authentication, stock management, and REST API communication.
